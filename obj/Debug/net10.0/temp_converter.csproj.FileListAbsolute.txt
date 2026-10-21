@@ -1,0 +1,14 @@
+C:\Users\degre\OneDrive\Escritorio\temp_converter\bin\Debug\net10.0\temp_converter.exe
+C:\Users\degre\OneDrive\Escritorio\temp_converter\bin\Debug\net10.0\temp_converter.deps.json
+C:\Users\degre\OneDrive\Escritorio\temp_converter\bin\Debug\net10.0\temp_converter.runtimeconfig.json
+C:\Users\degre\OneDrive\Escritorio\temp_converter\bin\Debug\net10.0\temp_converter.dll
+C:\Users\degre\OneDrive\Escritorio\temp_converter\bin\Debug\net10.0\temp_converter.pdb
+C:\Users\degre\OneDrive\Escritorio\temp_converter\obj\Debug\net10.0\temp_converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\degre\OneDrive\Escritorio\temp_converter\obj\Debug\net10.0\temp_converter.AssemblyInfoInputs.cache
+C:\Users\degre\OneDrive\Escritorio\temp_converter\obj\Debug\net10.0\temp_converter.AssemblyInfo.cs
+C:\Users\degre\OneDrive\Escritorio\temp_converter\obj\Debug\net10.0\temp_converter.csproj.CoreCompileInputs.cache
+C:\Users\degre\OneDrive\Escritorio\temp_converter\obj\Debug\net10.0\temp_converter.dll
+C:\Users\degre\OneDrive\Escritorio\temp_converter\obj\Debug\net10.0\refint\temp_converter.dll
+C:\Users\degre\OneDrive\Escritorio\temp_converter\obj\Debug\net10.0\temp_converter.pdb
+C:\Users\degre\OneDrive\Escritorio\temp_converter\obj\Debug\net10.0\temp_converter.genruntimeconfig.cache
+C:\Users\degre\OneDrive\Escritorio\temp_converter\obj\Debug\net10.0\ref\temp_converter.dll
